@@ -1,3 +1,5 @@
-## Hi there 👋
+## 👋 Hi there
 
-### I am JoseFritas
+### I'm José Freitas
+
+Passionate about clean code, creative tools, and building things that make other developers' lives easier.
